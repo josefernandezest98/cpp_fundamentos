@@ -1,0 +1,675 @@
+# depslib dependency file v1.0
+1446667744 source:e:\programación orientada a objetos\practica0402\parte01\main.cpp
+	<iostream>
+
+1446667744 source:f:\programación orientada a objetos\practica0402\parte01\main.cpp
+	<iostream>
+
+1545071200 source:f:\programación orientada a objetos\practica0402\parte01\inodecontainer.cpp
+	"InodeContainer.h"
+	<iostream>
+
+1545238866 f:\programación orientada a objetos\practica0402\parte01\inodecontainer.h
+	<iostream>
+	<list>
+	"Root.h"
+
+1545071200 source:e:\programación orientada a objetos\practica0402\parte01\inodecontainer.cpp
+	"InodeContainer.h"
+	<iostream>
+
+1545051534 e:\programación orientada a objetos\practica0402\parte01\inodecontainer.h
+	<iostream>
+	<list>
+
+1545127440 source:e:\programación orientada a objetos\practica0402\parte01\file.cpp
+	"File.h"
+	"InodeContainer.h"
+	"Directory.h"
+	<iostream>
+	<string>
+
+1545212284 source:e:\programación orientada a objetos\practica0402\parte01\directory.cpp
+	"Directory.h"
+	"FSObject.h"
+	"InodeContainer.h"
+	"TextFile.h"
+	"BinaryFile.h"
+	<iostream>
+	<string>
+	<typeinfo>
+
+1545212646 source:e:\programación orientada a objetos\practica0402\parte01\root.cpp
+	"Root.h"
+	"InodeContainer.h"
+	<list>
+
+1545125866 e:\programación orientada a objetos\practica0402\parte01\root.h
+	<list>
+	"Directory.h"
+	"InodeContainer.h"
+
+1545212318 e:\programación orientada a objetos\practica0402\parte01\directory.h
+	"FSObject.h"
+	<iostream>
+	<string>
+
+1545151782 e:\programación orientada a objetos\practica0402\parte01\fsobject.h
+	"FSOperations.h"
+	<string>
+
+1545065674 e:\programación orientada a objetos\practica0402\parte01\fsoperations.h
+	"Parent.h"
+	"Inode.h"
+	"Name.h"
+	"Permissions.h"
+
+1545071014 e:\programación orientada a objetos\practica0402\parte01\parent.h
+
+1545065674 e:\programación orientada a objetos\practica0402\parte01\inode.h
+
+1545065674 e:\programación orientada a objetos\practica0402\parte01\name.h
+	<string>
+
+1545065674 e:\programación orientada a objetos\practica0402\parte01\permissions.h
+
+1545125900 e:\programación orientada a objetos\practica0402\parte01\file.h
+	"FSObject.h"
+	<string>
+
+1545127440 source:f:\programación orientada a objetos\practica0402\parte01\file.cpp
+	"File.h"
+	"InodeContainer.h"
+	"Directory.h"
+	<iostream>
+	<string>
+
+1545125900 f:\programación orientada a objetos\practica0402\parte01\file.h
+	"FSObject.h"
+	<string>
+
+1545151782 f:\programación orientada a objetos\practica0402\parte01\fsobject.h
+	"FSOperations.h"
+	<string>
+
+1545065674 f:\programación orientada a objetos\practica0402\parte01\fsoperations.h
+	"Parent.h"
+	"Inode.h"
+	"Name.h"
+	"Permissions.h"
+
+1545238292 f:\programación orientada a objetos\practica0402\parte01\parent.h
+
+1545065674 f:\programación orientada a objetos\practica0402\parte01\inode.h
+
+1545065674 f:\programación orientada a objetos\practica0402\parte01\name.h
+	<string>
+
+1545065674 f:\programación orientada a objetos\practica0402\parte01\permissions.h
+
+1545238752 f:\programación orientada a objetos\practica0402\parte01\directory.h
+	"FSObject.h"
+	<iostream>
+	<string>
+
+1545238292 source:f:\programación orientada a objetos\practica0402\parte01\root.cpp
+	"Root.h"
+	"InodeContainer.h"
+
+1545238022 f:\programación orientada a objetos\practica0402\parte01\root.h
+	"Directory.h"
+
+1545237898 source:f:\programación orientada a objetos\practica0402\parte01\directory.cpp
+	"Directory.h"
+	"FSObject.h"
+	"InodeContainer.h"
+	"TextFile.h"
+	"BinaryFile.h"
+	<iostream>
+	<string>
+	<typeinfo>
+
+1545211692 source:e:\programación orientada a objetos\practica0402\parte01\binaryfile.cpp
+	"File.h"
+	"BinaryFile.h"
+	"Directory.h"
+	<iostream>
+	<string>
+
+1545210808 e:\programación orientada a objetos\practica0402\parte01\binaryfile.h
+	"File.h"
+	<string>
+
+1545211330 source:e:\programación orientada a objetos\practica0402\parte01\textfile.cpp
+	"TextFile.h"
+	"Directory.h"
+	<iostream>
+	<string>
+
+1545209086 e:\programación orientada a objetos\practica0402\parte01\textfile.h
+	"File.h"
+	<string>
+
+1545211602 source:e:\programación orientada a objetos\practica0402\parte01\fsobject.cpp
+	"FSObject.h"
+	"InodeContainer.h"
+	"Directory.h"
+	<string>
+
+1511802506 source:e:\programación orientada a objetos\practica0402\parte01\tests.cpp
+	<iostream>
+	"catch.hpp"
+	"Directory.h"
+	"TextFile.h"
+	"Root.h"
+	"File.h"
+	"BinaryFile.h"
+	"Parent.h"
+	"Inode.h"
+	"Name.h"
+	"Permissions.h"
+	"FSObject.h"
+	"FSOperations.h"
+
+1488565300 e:\programación orientada a objetos\practica0402\parte01\catch.hpp
+	<sstream>
+	<algorithm>
+	<string>
+	<vector>
+	<string>
+	<cstddef>
+	<sstream>
+	<iomanip>
+	<limits>
+	<vector>
+	<cstddef>
+	<tuple>
+	<type_traits>
+	<string>
+	<string>
+	<string>
+	<signal.h>
+	<type_traits>
+	<cstddef>
+	<string>
+	<stdint.h>
+	<string>
+	<iterator>
+	<vector>
+	<string>
+	<stdlib.h>
+	<string>
+	<vector>
+	<string>
+	<cmath>
+	<limits>
+	<type_traits>
+	<string>
+	<string>
+	<set>
+	<string>
+	<crtdbg.h>
+	<stdexcept>
+	<string>
+	<vector>
+	<iosfwd>
+	<string>
+	<vector>
+	<streambuf>
+	<streambuf>
+	<ostream>
+	<fstream>
+	<memory>
+	<memory>
+	<vector>
+	<string>
+	<stdexcept>
+	<string>
+	<vector>
+	<sstream>
+	<algorithm>
+	<map>
+	<stdexcept>
+	<memory>
+	<fstream>
+	<ctime>
+	<string>
+	<vector>
+	<sstream>
+	<string>
+	<ostream>
+	<map>
+	<limits>
+	<algorithm>
+	<map>
+	<string>
+	<assert.h>
+	<vector>
+	<iterator>
+	<stdexcept>
+	<AfxWin.h>
+	<windows.h>
+	<signal.h>
+	<set>
+	<string>
+	<fstream>
+	<stdlib.h>
+	<limits>
+	<vector>
+	<set>
+	<sstream>
+	<algorithm>
+	<map>
+	<sstream>
+	<stdexcept>
+	<cstdio>
+	<iostream>
+	<unistd.h>
+	<vector>
+	<string>
+	<map>
+	<cctype>
+	<sys/time.h>
+	<cstring>
+	<cctype>
+	<assert.h>
+	<stdbool.h>
+	<sys/types.h>
+	<unistd.h>
+	<sys/sysctl.h>
+	<fstream>
+	<string>
+	<map>
+	<cstring>
+	<assert.h>
+	<sstream>
+	<string>
+	<vector>
+	<iomanip>
+	<assert.h>
+	<cfloat>
+	<cstdio>
+
+1545211692 source:f:\programación orientada a objetos\practica0402\parte01\binaryfile.cpp
+	"File.h"
+	"BinaryFile.h"
+	"Directory.h"
+	<iostream>
+	<string>
+
+1545210808 f:\programación orientada a objetos\practica0402\parte01\binaryfile.h
+	"File.h"
+	<string>
+
+1545209086 f:\programación orientada a objetos\practica0402\parte01\textfile.h
+	"File.h"
+	<string>
+
+1545211602 source:f:\programación orientada a objetos\practica0402\parte01\fsobject.cpp
+	"FSObject.h"
+	"InodeContainer.h"
+	"Directory.h"
+	<string>
+
+1511802506 source:f:\programación orientada a objetos\practica0402\parte01\tests.cpp
+	<iostream>
+	"catch.hpp"
+	"Directory.h"
+	"TextFile.h"
+	"Root.h"
+	"File.h"
+	"BinaryFile.h"
+	"Parent.h"
+	"Inode.h"
+	"Name.h"
+	"Permissions.h"
+	"FSObject.h"
+	"FSOperations.h"
+
+1488565300 f:\programación orientada a objetos\practica0402\parte01\catch.hpp
+	<sstream>
+	<algorithm>
+	<string>
+	<vector>
+	<string>
+	<cstddef>
+	<sstream>
+	<iomanip>
+	<limits>
+	<vector>
+	<cstddef>
+	<tuple>
+	<type_traits>
+	<string>
+	<string>
+	<string>
+	<signal.h>
+	<type_traits>
+	<cstddef>
+	<string>
+	<stdint.h>
+	<string>
+	<iterator>
+	<vector>
+	<string>
+	<stdlib.h>
+	<string>
+	<vector>
+	<string>
+	<cmath>
+	<limits>
+	<type_traits>
+	<string>
+	<string>
+	<set>
+	<string>
+	<crtdbg.h>
+	<stdexcept>
+	<string>
+	<vector>
+	<iosfwd>
+	<string>
+	<vector>
+	<streambuf>
+	<streambuf>
+	<ostream>
+	<fstream>
+	<memory>
+	<memory>
+	<vector>
+	<string>
+	<stdexcept>
+	<string>
+	<vector>
+	<sstream>
+	<algorithm>
+	<map>
+	<stdexcept>
+	<memory>
+	<fstream>
+	<ctime>
+	<string>
+	<vector>
+	<sstream>
+	<string>
+	<ostream>
+	<map>
+	<limits>
+	<algorithm>
+	<map>
+	<string>
+	<assert.h>
+	<vector>
+	<iterator>
+	<stdexcept>
+	<AfxWin.h>
+	<windows.h>
+	<signal.h>
+	<set>
+	<string>
+	<fstream>
+	<stdlib.h>
+	<limits>
+	<vector>
+	<set>
+	<sstream>
+	<algorithm>
+	<map>
+	<sstream>
+	<stdexcept>
+	<cstdio>
+	<iostream>
+	<unistd.h>
+	<vector>
+	<string>
+	<map>
+	<cctype>
+	<sys/time.h>
+	<cstring>
+	<cctype>
+	<assert.h>
+	<stdbool.h>
+	<sys/types.h>
+	<unistd.h>
+	<sys/sysctl.h>
+	<fstream>
+	<string>
+	<map>
+	<cstring>
+	<assert.h>
+	<sstream>
+	<string>
+	<vector>
+	<iomanip>
+	<assert.h>
+	<cfloat>
+	<cstdio>
+
+1545211330 source:f:\programación orientada a objetos\practica0402\parte01\textfile.cpp
+	"TextFile.h"
+	"Directory.h"
+	<iostream>
+	<string>
+
+1545211692 source:d:\programación orientada a objetos\practica0402\parte01\binaryfile.cpp
+	"File.h"
+	"BinaryFile.h"
+	"Directory.h"
+	<iostream>
+	<string>
+
+1545125900 d:\programación orientada a objetos\practica0402\parte01\file.h
+	"FSObject.h"
+	<string>
+
+1545151782 d:\programación orientada a objetos\practica0402\parte01\fsobject.h
+	"FSOperations.h"
+	<string>
+
+1545065674 d:\programación orientada a objetos\practica0402\parte01\fsoperations.h
+	"Parent.h"
+	"Inode.h"
+	"Name.h"
+	"Permissions.h"
+
+1545238292 d:\programación orientada a objetos\practica0402\parte01\parent.h
+
+1545065674 d:\programación orientada a objetos\practica0402\parte01\inode.h
+
+1545065674 d:\programación orientada a objetos\practica0402\parte01\name.h
+	<string>
+
+1545065674 d:\programación orientada a objetos\practica0402\parte01\permissions.h
+
+1545210808 d:\programación orientada a objetos\practica0402\parte01\binaryfile.h
+	"File.h"
+	<string>
+
+1545238752 d:\programación orientada a objetos\practica0402\parte01\directory.h
+	"FSObject.h"
+	<iostream>
+	<string>
+
+1545237898 source:d:\programación orientada a objetos\practica0402\parte01\directory.cpp
+	"Directory.h"
+	"FSObject.h"
+	"InodeContainer.h"
+	"TextFile.h"
+	"BinaryFile.h"
+	<iostream>
+	<string>
+	<typeinfo>
+
+1545238866 d:\programación orientada a objetos\practica0402\parte01\inodecontainer.h
+	<iostream>
+	<list>
+	"Root.h"
+
+1545239050 d:\programación orientada a objetos\practica0402\parte01\root.h
+	"Directory.h"
+
+1545209086 d:\programación orientada a objetos\practica0402\parte01\textfile.h
+	"File.h"
+	<string>
+
+1545127440 source:d:\programación orientada a objetos\practica0402\parte01\file.cpp
+	"File.h"
+	"InodeContainer.h"
+	"Directory.h"
+	<iostream>
+	<string>
+
+1545211602 source:d:\programación orientada a objetos\practica0402\parte01\fsobject.cpp
+	"FSObject.h"
+	"InodeContainer.h"
+	"Directory.h"
+	<string>
+
+1545071200 source:d:\programación orientada a objetos\practica0402\parte01\inodecontainer.cpp
+	"InodeContainer.h"
+	<iostream>
+
+1545238292 source:d:\programación orientada a objetos\practica0402\parte01\root.cpp
+	"Root.h"
+	"InodeContainer.h"
+
+1511802506 source:d:\programación orientada a objetos\practica0402\parte01\tests.cpp
+	<iostream>
+	"catch.hpp"
+	"Directory.h"
+	"TextFile.h"
+	"Root.h"
+	"File.h"
+	"BinaryFile.h"
+	"Parent.h"
+	"Inode.h"
+	"Name.h"
+	"Permissions.h"
+	"FSObject.h"
+	"FSOperations.h"
+
+1488565300 d:\programación orientada a objetos\practica0402\parte01\catch.hpp
+	<sstream>
+	<algorithm>
+	<string>
+	<vector>
+	<string>
+	<cstddef>
+	<sstream>
+	<iomanip>
+	<limits>
+	<vector>
+	<cstddef>
+	<tuple>
+	<type_traits>
+	<string>
+	<string>
+	<string>
+	<signal.h>
+	<type_traits>
+	<cstddef>
+	<string>
+	<stdint.h>
+	<string>
+	<iterator>
+	<vector>
+	<string>
+	<stdlib.h>
+	<string>
+	<vector>
+	<string>
+	<cmath>
+	<limits>
+	<type_traits>
+	<string>
+	<string>
+	<set>
+	<string>
+	<crtdbg.h>
+	<stdexcept>
+	<string>
+	<vector>
+	<iosfwd>
+	<string>
+	<vector>
+	<streambuf>
+	<streambuf>
+	<ostream>
+	<fstream>
+	<memory>
+	<memory>
+	<vector>
+	<string>
+	<stdexcept>
+	<string>
+	<vector>
+	<sstream>
+	<algorithm>
+	<map>
+	<stdexcept>
+	<memory>
+	<fstream>
+	<ctime>
+	<string>
+	<vector>
+	<sstream>
+	<string>
+	<ostream>
+	<map>
+	<limits>
+	<algorithm>
+	<map>
+	<string>
+	<assert.h>
+	<vector>
+	<iterator>
+	<stdexcept>
+	<AfxWin.h>
+	<windows.h>
+	<signal.h>
+	<set>
+	<string>
+	<fstream>
+	<stdlib.h>
+	<limits>
+	<vector>
+	<set>
+	<sstream>
+	<algorithm>
+	<map>
+	<sstream>
+	<stdexcept>
+	<cstdio>
+	<iostream>
+	<unistd.h>
+	<vector>
+	<string>
+	<map>
+	<cctype>
+	<sys/time.h>
+	<cstring>
+	<cctype>
+	<assert.h>
+	<stdbool.h>
+	<sys/types.h>
+	<unistd.h>
+	<sys/sysctl.h>
+	<fstream>
+	<string>
+	<map>
+	<cstring>
+	<assert.h>
+	<sstream>
+	<string>
+	<vector>
+	<iomanip>
+	<assert.h>
+	<cfloat>
+	<cstdio>
+
+1545211330 source:d:\programación orientada a objetos\practica0402\parte01\textfile.cpp
+	"TextFile.h"
+	"Directory.h"
+	<iostream>
+	<string>
+

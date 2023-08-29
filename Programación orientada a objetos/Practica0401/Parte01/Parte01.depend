@@ -1,0 +1,296 @@
+# depslib dependency file v1.0
+1543407348 source:e:\programación orientada a objetos\practica0401\parte01\actividad.cpp
+	"Actividad.h"
+	"Tipo.h"
+	<iostream>
+	<string>
+
+1543407322 e:\programación orientada a objetos\practica0401\parte01\actividad.h
+	<iostream>
+	<string>
+
+1543182548 e:\programación orientada a objetos\practica0401\parte01\tipo.h
+
+1543407882 source:e:\programación orientada a objetos\practica0401\parte01\asignatura.cpp
+	"Asignatura.h"
+	"Tipo.h"
+	<string>
+
+1543407882 e:\programación orientada a objetos\practica0401\parte01\asignatura.h
+	<string>
+	"Actividad.h"
+	"Tipo.h"
+
+1543408094 source:e:\programación orientada a objetos\practica0401\parte01\convalidacion.cpp
+	"Actividad.h"
+	"Convalidacion.h"
+	<string>
+	<iostream>
+
+1543408094 e:\programación orientada a objetos\practica0401\parte01\convalidacion.h
+	"Actividad.h"
+	<string>
+
+1543408314 source:e:\programación orientada a objetos\practica0401\parte01\estudiante.cpp
+	"Estudiante.h"
+	<string>
+	<iostream>
+
+1543408314 e:\programación orientada a objetos\practica0401\parte01\estudiante.h
+	<string>
+
+1543188808 source:e:\programación orientada a objetos\practica0401\parte01\matricula.cpp
+	"Matricula.h"
+	"Asignatura.h"
+	"Estudiante.h"
+	"Curso.h"
+	"OrdenMatricula.h"
+
+1543182548 e:\programación orientada a objetos\practica0401\parte01\matricula.h
+	"Actividad.h"
+	"Estudiante.h"
+	"Curso.h"
+	"OrdenMatricula.h"
+	"Tipo.h"
+
+1543182548 e:\programación orientada a objetos\practica0401\parte01\curso.h
+
+1543182548 e:\programación orientada a objetos\practica0401\parte01\ordenmatricula.h
+
+1543247326 source:e:\programación orientada a objetos\practica0401\parte01\reconocimiento.cpp
+	"Actividad.h"
+	"Tipo.h"
+	"Reconocimiento.h"
+	<string>
+
+1543247326 e:\programación orientada a objetos\practica0401\parte01\reconocimiento.h
+	"Actividad.h"
+	"Tipo.h"
+	<string>
+
+1543407464 source:e:\programación orientada a objetos\practica0401\parte01\calificacion.cpp
+	"Calificacion.h"
+	<string>
+	<iostream>
+
+1543406944 e:\programación orientada a objetos\practica0401\parte01\calificacion.h
+	<string>
+
+1543407348 source:f:\programación orientada a objetos\practica0401\parte01\actividad.cpp
+	"Actividad.h"
+	"Tipo.h"
+	<iostream>
+	<string>
+
+1543407322 f:\programación orientada a objetos\practica0401\parte01\actividad.h
+	<iostream>
+	<string>
+
+1543182548 f:\programación orientada a objetos\practica0401\parte01\tipo.h
+
+1543407882 source:f:\programación orientada a objetos\practica0401\parte01\asignatura.cpp
+	"Asignatura.h"
+	"Tipo.h"
+	<string>
+
+1543407882 f:\programación orientada a objetos\practica0401\parte01\asignatura.h
+	<string>
+	"Actividad.h"
+	"Tipo.h"
+
+1543407464 source:f:\programación orientada a objetos\practica0401\parte01\calificacion.cpp
+	"Calificacion.h"
+	<string>
+	<iostream>
+
+1543406944 f:\programación orientada a objetos\practica0401\parte01\calificacion.h
+	<string>
+
+1543408094 source:f:\programación orientada a objetos\practica0401\parte01\convalidacion.cpp
+	"Actividad.h"
+	"Convalidacion.h"
+	<string>
+	<iostream>
+
+1543408094 f:\programación orientada a objetos\practica0401\parte01\convalidacion.h
+	"Actividad.h"
+	<string>
+
+1543408314 source:f:\programación orientada a objetos\practica0401\parte01\estudiante.cpp
+	"Estudiante.h"
+	<string>
+	<iostream>
+
+1543408314 f:\programación orientada a objetos\practica0401\parte01\estudiante.h
+	<string>
+
+1543408400 source:f:\programación orientada a objetos\practica0401\parte01\reconocimiento.cpp
+	"Actividad.h"
+	"Tipo.h"
+	"Reconocimiento.h"
+	<string>
+	<iostream>
+
+1543408400 f:\programación orientada a objetos\practica0401\parte01\reconocimiento.h
+	"Actividad.h"
+	"Tipo.h"
+	<string>
+
+1543856142 source:f:\programación orientada a objetos\practica0401\parte01\matricula.cpp
+	"Matricula.h"
+	"Asignatura.h"
+	"Estudiante.h"
+	"Curso.h"
+	"OrdenMatricula.h"
+	"Calificacion.h"
+
+1543856132 f:\programación orientada a objetos\practica0401\parte01\matricula.h
+	"Actividad.h"
+	"Estudiante.h"
+	"Curso.h"
+	"OrdenMatricula.h"
+	"Tipo.h"
+	"Calificacion.h"
+
+1543182548 f:\programación orientada a objetos\practica0401\parte01\curso.h
+
+1543182548 f:\programación orientada a objetos\practica0401\parte01\ordenmatricula.h
+
+1543320262 source:f:\programación orientada a objetos\practica0401\parte01\tests.cpp
+	<iostream>
+	"catch.hpp"
+	"Matricula.h"
+	"Asignatura.h"
+	"Reconocimiento.h"
+	"Convalidacion.h"
+	"Calificacion.h"
+
+1543320220 f:\programación orientada a objetos\practica0401\parte01\catch.hpp
+	<sstream>
+	<algorithm>
+	<string>
+	<vector>
+	<string>
+	<cstddef>
+	<sstream>
+	<iomanip>
+	<limits>
+	<vector>
+	<cstddef>
+	<tuple>
+	<type_traits>
+	<string>
+	<string>
+	<string>
+	<signal.h>
+	<type_traits>
+	<cstddef>
+	<string>
+	<stdint.h>
+	<string>
+	<iterator>
+	<vector>
+	<string>
+	<stdlib.h>
+	<string>
+	<vector>
+	<string>
+	<cmath>
+	<limits>
+	<type_traits>
+	<string>
+	<string>
+	<set>
+	<string>
+	<crtdbg.h>
+	<stdexcept>
+	<string>
+	<vector>
+	<iosfwd>
+	<string>
+	<vector>
+	<streambuf>
+	<streambuf>
+	<ostream>
+	<fstream>
+	<memory>
+	<memory>
+	<vector>
+	<string>
+	<stdexcept>
+	<string>
+	<vector>
+	<sstream>
+	<algorithm>
+	<map>
+	<stdexcept>
+	<memory>
+	<fstream>
+	<ctime>
+	<string>
+	<vector>
+	<sstream>
+	<string>
+	<ostream>
+	<map>
+	<limits>
+	<algorithm>
+	<map>
+	<string>
+	<assert.h>
+	<vector>
+	<iterator>
+	<stdexcept>
+	<AfxWin.h>
+	<windows.h>
+	<signal.h>
+	<set>
+	<string>
+	<fstream>
+	<stdlib.h>
+	<limits>
+	<vector>
+	<set>
+	<sstream>
+	<algorithm>
+	<map>
+	<sstream>
+	<stdexcept>
+	<cstdio>
+	<iostream>
+	<unistd.h>
+	<vector>
+	<string>
+	<map>
+	<cctype>
+	<sys/time.h>
+	<cstring>
+	<cctype>
+	<assert.h>
+	<stdbool.h>
+	<sys/types.h>
+	<unistd.h>
+	<sys/sysctl.h>
+	<fstream>
+	<string>
+	<map>
+	<cstring>
+	<assert.h>
+	<sstream>
+	<string>
+	<vector>
+	<iomanip>
+	<assert.h>
+	<cfloat>
+	<cstdio>
+
+1543858484 source:f:\programación orientada a objetos\practica0401\parte01\principal.cpp
+	"Matricula.h"
+	"Asignatura.h"
+	"Convalidacion.h"
+	"Reconocimiento.h"
+	"Calificacion.h"
+	"Estudiante.h"
+	<string>
+	<iostream>
+
