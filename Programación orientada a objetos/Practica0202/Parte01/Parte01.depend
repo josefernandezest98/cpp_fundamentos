@@ -1,0 +1,188 @@
+# depslib dependency file v1.0
+1541440520 source:e:\programación orientada a objetos\practica0202\parte01\circunferencia.cpp
+	"Circunferencia.h"
+	<iostream>
+	<cmath>
+
+1541437984 e:\programación orientada a objetos\practica0202\parte01\circunferencia.h
+	<cmath>
+
+1518524662 source:e:\programación orientada a objetos\practica0202\parte01\main.cpp
+	<iostream>
+
+1541432400 source:e:\programación orientada a objetos\practica0202\parte01\punto.cpp
+	"Punto.h"
+	<cmath>
+	<cstdlib>
+
+1541437984 e:\programación orientada a objetos\practica0202\parte01\punto.h
+	<iostream>
+
+1541447614 source:e:\programación orientada a objetos\practica0202\parte01\circunferencia2d.cpp
+	"Punto.h"
+	"Circunferencia.h"
+	"Circunferencia2D.h"
+	<iostream>
+
+1541446628 e:\programación orientada a objetos\practica0202\parte01\circunferencia2d.h
+	"Punto.h"
+	"Circunferencia.h"
+
+1541440520 source:f:\programación orientada a objetos\practica0202\parte01\circunferencia.cpp
+	"Circunferencia.h"
+	<iostream>
+	<cmath>
+
+1541619110 f:\programación orientada a objetos\practica0202\parte01\circunferencia.h
+	<cmath>
+
+1541447614 source:f:\programación orientada a objetos\practica0202\parte01\circunferencia2d.cpp
+	"Punto.h"
+	"Circunferencia.h"
+	"Circunferencia2D.h"
+	<iostream>
+
+1541437984 f:\programación orientada a objetos\practica0202\parte01\punto.h
+	<iostream>
+
+1541446628 f:\programación orientada a objetos\practica0202\parte01\circunferencia2d.h
+	"Punto.h"
+	"Circunferencia.h"
+
+1541432400 source:f:\programación orientada a objetos\practica0202\parte01\punto.cpp
+	"Punto.h"
+	<cmath>
+	<cstdlib>
+
+1540970166 source:f:\programación orientada a objetos\practica0202\parte01\tests.cpp
+	<iostream>
+	"catch.hpp"
+	"Circunferencia.h"
+	"Punto.h"
+	"Circunferencia2D.h"
+
+1488565300 f:\programación orientada a objetos\practica0202\parte01\catch.hpp
+	<sstream>
+	<algorithm>
+	<string>
+	<vector>
+	<string>
+	<cstddef>
+	<sstream>
+	<iomanip>
+	<limits>
+	<vector>
+	<cstddef>
+	<tuple>
+	<type_traits>
+	<string>
+	<string>
+	<string>
+	<signal.h>
+	<type_traits>
+	<cstddef>
+	<string>
+	<stdint.h>
+	<string>
+	<iterator>
+	<vector>
+	<string>
+	<stdlib.h>
+	<string>
+	<vector>
+	<string>
+	<cmath>
+	<limits>
+	<type_traits>
+	<string>
+	<string>
+	<set>
+	<string>
+	<crtdbg.h>
+	<stdexcept>
+	<string>
+	<vector>
+	<iosfwd>
+	<string>
+	<vector>
+	<streambuf>
+	<streambuf>
+	<ostream>
+	<fstream>
+	<memory>
+	<memory>
+	<vector>
+	<string>
+	<stdexcept>
+	<string>
+	<vector>
+	<sstream>
+	<algorithm>
+	<map>
+	<stdexcept>
+	<memory>
+	<fstream>
+	<ctime>
+	<string>
+	<vector>
+	<sstream>
+	<string>
+	<ostream>
+	<map>
+	<limits>
+	<algorithm>
+	<map>
+	<string>
+	<assert.h>
+	<vector>
+	<iterator>
+	<stdexcept>
+	<AfxWin.h>
+	<windows.h>
+	<signal.h>
+	<set>
+	<string>
+	<fstream>
+	<stdlib.h>
+	<limits>
+	<vector>
+	<set>
+	<sstream>
+	<algorithm>
+	<map>
+	<sstream>
+	<stdexcept>
+	<cstdio>
+	<iostream>
+	<unistd.h>
+	<vector>
+	<string>
+	<map>
+	<cctype>
+	<sys/time.h>
+	<cstring>
+	<cctype>
+	<assert.h>
+	<stdbool.h>
+	<sys/types.h>
+	<unistd.h>
+	<sys/sysctl.h>
+	<fstream>
+	<string>
+	<map>
+	<cstring>
+	<assert.h>
+	<sstream>
+	<string>
+	<vector>
+	<iomanip>
+	<assert.h>
+	<cfloat>
+	<cstdio>
+
+1541618972 source:f:\programación orientada a objetos\practica0202\parte01\principal.cpp
+	"Punto.h"
+	"Circunferencia.h"
+	"Circunferencia2D.h"
+	<iostream>
+

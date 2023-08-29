@@ -1,0 +1,272 @@
+# depslib dependency file v1.0
+1541157200 source:e:\programación orientada a objetos\practica0202\parte02\estudiante.cpp
+	"Estudiante.h"
+	<string>
+
+1541157420 e:\programación orientada a objetos\practica0202\parte02\estudiante.h
+	<string>
+
+1518524662 source:e:\programación orientada a objetos\practica0202\parte02\main.cpp
+	<iostream>
+
+1541583182 source:e:\programación orientada a objetos\practica0202\parte02\matricula.cpp
+	"Matricula.h"
+	"Asignatura.h"
+	"Estudiante.h"
+	"Curso.h"
+	"OrdenMatricula.h"
+
+1541582922 e:\programación orientada a objetos\practica0202\parte02\matricula.h
+	"Actividad.h"
+	"Estudiante.h"
+	"Curso.h"
+	"OrdenMatricula.h"
+	"TIPO.H"
+
+1541582376 e:\programación orientada a objetos\practica0202\parte02\asignatura.h
+	<string>
+	"Actividad.h"
+	"Tipo.h"
+
+1541582376 e:\programación orientada a objetos\practica0202\parte02\actividad.h
+	<iostream>
+	<string>
+
+1541578938 e:\programación orientada a objetos\practica0202\parte02\tipo.h
+
+1540484712 e:\programación orientada a objetos\practica0202\parte02\curso.h
+
+1540484712 e:\programación orientada a objetos\practica0202\parte02\ordenmatricula.h
+
+1541582376 source:e:\programación orientada a objetos\practica0202\parte02\actividad.cpp
+	"Actividad.h"
+	"TIPO.H"
+	<iostream>
+	<string>
+
+1541582672 source:e:\programación orientada a objetos\practica0202\parte02\asignatura.cpp
+	"Asignatura.h"
+	"TIPO.H"
+	<string>
+
+1541586752 source:e:\programación orientada a objetos\practica0202\parte02\principal.cpp
+	"Actividad.h"
+	"Matricula.h"
+	"Estudiante.h"
+	"Asignatura.h"
+	"Curso.h"
+	"TIPO.H"
+	"OrdenMatricula.h"
+	"Reconocimiento.h"
+	<iostream>
+	<string>
+
+1541584088 source:e:\programación orientada a objetos\practica0202\parte02\reconocimiento.cpp
+	"Actividad.h"
+	"TIPO.H"
+	"Reconocimiento.h"
+	<string>
+
+1541583900 e:\programación orientada a objetos\practica0202\parte02\reconocimiento.h
+	"Actividad.h"
+	"TIPO.H"
+	<string>
+
+1541621014 source:f:\programación orientada a objetos\practica0202\parte02\actividad.cpp
+	"Actividad.h"
+	"TIPO.H"
+	<iostream>
+	<string>
+
+1541620808 f:\programación orientada a objetos\practica0202\parte02\actividad.h
+	<iostream>
+	<string>
+
+1541620922 f:\programación orientada a objetos\practica0202\parte02\tipo.h
+
+1541621034 source:f:\programación orientada a objetos\practica0202\parte02\asignatura.cpp
+	"Asignatura.h"
+	"TIPO.H"
+	<string>
+
+1541620808 f:\programación orientada a objetos\practica0202\parte02\asignatura.h
+	<string>
+	"Actividad.h"
+	"Tipo.h"
+
+1541621056 source:f:\programación orientada a objetos\practica0202\parte02\estudiante.cpp
+	"Estudiante.h"
+	<string>
+
+1541620922 f:\programación orientada a objetos\practica0202\parte02\estudiante.h
+	<string>
+
+1541630182 source:f:\programación orientada a objetos\practica0202\parte02\matricula.cpp
+	"Matricula.h"
+	"Asignatura.h"
+	"Estudiante.h"
+	"Curso.h"
+	"OrdenMatricula.h"
+
+1541628028 f:\programación orientada a objetos\practica0202\parte02\matricula.h
+	"Actividad.h"
+	"Estudiante.h"
+	"Curso.h"
+	"OrdenMatricula.h"
+	"TIPO.H"
+
+1541620922 f:\programación orientada a objetos\practica0202\parte02\curso.h
+
+1541620922 f:\programación orientada a objetos\practica0202\parte02\ordenmatricula.h
+
+1541627976 source:f:\programación orientada a objetos\practica0202\parte02\principal.cpp
+	"Actividad.h"
+	"Matricula.h"
+	"Estudiante.h"
+	"Asignatura.h"
+	"Curso.h"
+	"TIPO.H"
+	"OrdenMatricula.h"
+	"Reconocimiento.h"
+	<iostream>
+	<string>
+
+1541620922 f:\programación orientada a objetos\practica0202\parte02\reconocimiento.h
+	"Actividad.h"
+	"TIPO.H"
+	<string>
+
+1541621112 source:f:\programación orientada a objetos\practica0202\parte02\reconocimiento.cpp
+	"Actividad.h"
+	"TIPO.H"
+	"Reconocimiento.h"
+	<string>
+
+1540809744 source:f:\programación orientada a objetos\practica0202\parte02\tests.cpp
+	<iostream>
+	"catch.hpp"
+	"Matricula.h"
+	"Asignatura.h"
+	"Actividad.h"
+	"Reconocimiento.h"
+	"Tipo.h"
+
+1488565300 f:\programación orientada a objetos\practica0202\parte02\catch.hpp
+	<sstream>
+	<algorithm>
+	<string>
+	<vector>
+	<string>
+	<cstddef>
+	<sstream>
+	<iomanip>
+	<limits>
+	<vector>
+	<cstddef>
+	<tuple>
+	<type_traits>
+	<string>
+	<string>
+	<string>
+	<signal.h>
+	<type_traits>
+	<cstddef>
+	<string>
+	<stdint.h>
+	<string>
+	<iterator>
+	<vector>
+	<string>
+	<stdlib.h>
+	<string>
+	<vector>
+	<string>
+	<cmath>
+	<limits>
+	<type_traits>
+	<string>
+	<string>
+	<set>
+	<string>
+	<crtdbg.h>
+	<stdexcept>
+	<string>
+	<vector>
+	<iosfwd>
+	<string>
+	<vector>
+	<streambuf>
+	<streambuf>
+	<ostream>
+	<fstream>
+	<memory>
+	<memory>
+	<vector>
+	<string>
+	<stdexcept>
+	<string>
+	<vector>
+	<sstream>
+	<algorithm>
+	<map>
+	<stdexcept>
+	<memory>
+	<fstream>
+	<ctime>
+	<string>
+	<vector>
+	<sstream>
+	<string>
+	<ostream>
+	<map>
+	<limits>
+	<algorithm>
+	<map>
+	<string>
+	<assert.h>
+	<vector>
+	<iterator>
+	<stdexcept>
+	<AfxWin.h>
+	<windows.h>
+	<signal.h>
+	<set>
+	<string>
+	<fstream>
+	<stdlib.h>
+	<limits>
+	<vector>
+	<set>
+	<sstream>
+	<algorithm>
+	<map>
+	<sstream>
+	<stdexcept>
+	<cstdio>
+	<iostream>
+	<unistd.h>
+	<vector>
+	<string>
+	<map>
+	<cctype>
+	<sys/time.h>
+	<cstring>
+	<cctype>
+	<assert.h>
+	<stdbool.h>
+	<sys/types.h>
+	<unistd.h>
+	<sys/sysctl.h>
+	<fstream>
+	<string>
+	<map>
+	<cstring>
+	<assert.h>
+	<sstream>
+	<string>
+	<vector>
+	<iomanip>
+	<assert.h>
+	<cfloat>
+	<cstdio>
+
