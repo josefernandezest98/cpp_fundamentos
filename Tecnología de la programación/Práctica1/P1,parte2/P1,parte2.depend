@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1518633378 source:e:\segundo matemáticas\tecnología de la programacion\p1,parte2\main.cpp
+	<iostream>
+	<cstdlib>
+	<time.h>
+
