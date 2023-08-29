@@ -1,0 +1,215 @@
+# depslib dependency file v1.0
+1543180423 source:c:\users\usuario\desktop\practica0302\parte02\abslist.cpp
+	"AbsList.h"
+	<string>
+
+1543180423 c:\users\usuario\desktop\practica0302\parte02\abslist.h
+	<string>
+
+1543180423 source:c:\users\usuario\desktop\practica0302\parte02\arrlist.cpp
+	"ArrList.h"
+	"AbsList.h"
+	<string>
+	<iostream>
+
+1543180443 c:\users\usuario\desktop\practica0302\parte02\arrlist.h
+	"AbsList.h"
+	<string>
+
+1543180423 source:c:\users\usuario\desktop\practica0302\parte02\linklist.cpp
+	"AbsList.h"
+	"LinkList.h"
+	"Node.h"
+	<string>
+	<iostream>
+
+1543180455 c:\users\usuario\desktop\practica0302\parte02\linklist.h
+	"AbsList.h"
+	"Node.h"
+	<string>
+
+1543173582 c:\users\usuario\desktop\practica0302\parte02\node.h
+	<string>
+
+1543174650 source:c:\users\usuario\desktop\practica0302\parte02\node.cpp
+	"Node.h"
+	<string>
+
+1543180292 source:c:\users\usuario\desktop\practica0302\parte02\tests.cpp
+	<iostream>
+	"catch.hpp"
+	"AbsList.h"
+	"LinkList.h"
+	"Node.h"
+	"ArrList.h"
+	<string>
+
+1543180292 c:\users\usuario\desktop\practica0302\parte02\catch.hpp
+	<sstream>
+	<algorithm>
+	<string>
+	<vector>
+	<string>
+	<cstddef>
+	<sstream>
+	<iomanip>
+	<limits>
+	<vector>
+	<cstddef>
+	<tuple>
+	<type_traits>
+	<string>
+	<string>
+	<string>
+	<signal.h>
+	<type_traits>
+	<cstddef>
+	<string>
+	<stdint.h>
+	<string>
+	<iterator>
+	<vector>
+	<string>
+	<stdlib.h>
+	<string>
+	<vector>
+	<string>
+	<cmath>
+	<limits>
+	<type_traits>
+	<string>
+	<string>
+	<set>
+	<string>
+	<crtdbg.h>
+	<stdexcept>
+	<string>
+	<vector>
+	<iosfwd>
+	<string>
+	<vector>
+	<streambuf>
+	<streambuf>
+	<ostream>
+	<fstream>
+	<memory>
+	<memory>
+	<vector>
+	<string>
+	<stdexcept>
+	<string>
+	<vector>
+	<sstream>
+	<algorithm>
+	<map>
+	<stdexcept>
+	<memory>
+	<fstream>
+	<ctime>
+	<string>
+	<vector>
+	<sstream>
+	<string>
+	<ostream>
+	<map>
+	<limits>
+	<algorithm>
+	<map>
+	<string>
+	<assert.h>
+	<vector>
+	<iterator>
+	<stdexcept>
+	<AfxWin.h>
+	<windows.h>
+	<signal.h>
+	<set>
+	<string>
+	<fstream>
+	<stdlib.h>
+	<limits>
+	<vector>
+	<set>
+	<sstream>
+	<algorithm>
+	<map>
+	<sstream>
+	<stdexcept>
+	<cstdio>
+	<iostream>
+	<unistd.h>
+	<vector>
+	<string>
+	<map>
+	<cctype>
+	<sys/time.h>
+	<cstring>
+	<cctype>
+	<assert.h>
+	<stdbool.h>
+	<sys/types.h>
+	<unistd.h>
+	<sys/sysctl.h>
+	<fstream>
+	<string>
+	<map>
+	<cstring>
+	<assert.h>
+	<sstream>
+	<string>
+	<vector>
+	<iomanip>
+	<assert.h>
+	<cfloat>
+	<cstdio>
+
+1543181445 source:c:\users\usuario\desktop\practica0302\parte02\principal.cpp
+	"AbsList.h"
+	"ArrList.h"
+	"LinkList.h"
+	<string>
+	<iostream>
+
+1543180424 source:e:\programación orientada a objetos\practica0302\parte02\abslist.cpp
+	"AbsList.h"
+	<string>
+
+1543180424 e:\programación orientada a objetos\practica0302\parte02\abslist.h
+	<string>
+
+1543180424 source:e:\programación orientada a objetos\practica0302\parte02\arrlist.cpp
+	"ArrList.h"
+	"AbsList.h"
+	<string>
+	<iostream>
+
+1543247624 e:\programación orientada a objetos\practica0302\parte02\arrlist.h
+	"AbsList.h"
+	<string>
+
+1543180424 source:e:\programación orientada a objetos\practica0302\parte02\linklist.cpp
+	"AbsList.h"
+	"LinkList.h"
+	"Node.h"
+	<string>
+	<iostream>
+
+1543180456 e:\programación orientada a objetos\practica0302\parte02\linklist.h
+	"AbsList.h"
+	"Node.h"
+	<string>
+
+1543173584 e:\programación orientada a objetos\practica0302\parte02\node.h
+	<string>
+
+1543174652 source:e:\programación orientada a objetos\practica0302\parte02\node.cpp
+	"Node.h"
+	<string>
+
+1543220206 source:e:\programación orientada a objetos\practica0302\parte02\principal.cpp
+	"AbsList.h"
+	"ArrList.h"
+	"LinkList.h"
+	<string>
+	<iostream>
+

@@ -1,0 +1,384 @@
+# depslib dependency file v1.0
+1543183829 source:c:\users\usuario\desktop\practica0302\parte01\asignatura.cpp
+	"Asignatura.h"
+	"Tipo.h"
+	<string>
+
+1543183699 c:\users\usuario\desktop\practica0302\parte01\asignatura.h
+	<string>
+	"Actividad.h"
+	"Tipo.h"
+
+1543183479 c:\users\usuario\desktop\practica0302\parte01\actividad.h
+	<iostream>
+	<string>
+
+1543182546 c:\users\usuario\desktop\practica0302\parte01\tipo.h
+
+1543182471 source:c:\users\usuario\desktop\practica0302\parte01\estudiante.cpp
+	"Estudiante.h"
+	<string>
+
+1543182546 c:\users\usuario\desktop\practica0302\parte01\estudiante.h
+	<string>
+
+1543188806 source:c:\users\usuario\desktop\practica0302\parte01\matricula.cpp
+	"Matricula.h"
+	"Asignatura.h"
+	"Estudiante.h"
+	"Curso.h"
+	"OrdenMatricula.h"
+
+1543182546 c:\users\usuario\desktop\practica0302\parte01\matricula.h
+	"Actividad.h"
+	"Estudiante.h"
+	"Curso.h"
+	"OrdenMatricula.h"
+	"Tipo.h"
+
+1543182546 c:\users\usuario\desktop\practica0302\parte01\curso.h
+
+1543182546 c:\users\usuario\desktop\practica0302\parte01\ordenmatricula.h
+
+1543187658 source:c:\users\usuario\desktop\practica0302\parte01\reconocimiento.cpp
+	"Actividad.h"
+	"Tipo.h"
+	"Reconocimiento.h"
+	<string>
+
+1543187658 c:\users\usuario\desktop\practica0302\parte01\reconocimiento.h
+	"Actividad.h"
+	"Tipo.h"
+	<string>
+
+1543183479 source:c:\users\usuario\desktop\practica0302\parte01\actividad.cpp
+	"Actividad.h"
+	"Tipo.h"
+	<iostream>
+	<string>
+
+1543184727 source:c:\users\usuario\desktop\practica0302\parte01\convalidacion.cpp
+	"Actividad.h"
+	"Convalidacion.h"
+	<string>
+
+1543182666 source:c:\users\usuario\desktop\practica0302\parte01\tests.cpp
+	<iostream>
+	"catch.hpp"
+	"Matricula.h"
+	"Asignatura.h"
+	"Reconocimiento.h"
+	"Convalidacion.h"
+
+1543182666 c:\users\usuario\desktop\practica0302\parte01\catch.hpp
+	<sstream>
+	<algorithm>
+	<string>
+	<vector>
+	<string>
+	<cstddef>
+	<sstream>
+	<iomanip>
+	<limits>
+	<vector>
+	<cstddef>
+	<tuple>
+	<type_traits>
+	<string>
+	<string>
+	<string>
+	<signal.h>
+	<type_traits>
+	<cstddef>
+	<string>
+	<stdint.h>
+	<string>
+	<iterator>
+	<vector>
+	<string>
+	<stdlib.h>
+	<string>
+	<vector>
+	<string>
+	<cmath>
+	<limits>
+	<type_traits>
+	<string>
+	<string>
+	<set>
+	<string>
+	<crtdbg.h>
+	<stdexcept>
+	<string>
+	<vector>
+	<iosfwd>
+	<string>
+	<vector>
+	<streambuf>
+	<streambuf>
+	<ostream>
+	<fstream>
+	<memory>
+	<memory>
+	<vector>
+	<string>
+	<stdexcept>
+	<string>
+	<vector>
+	<sstream>
+	<algorithm>
+	<map>
+	<stdexcept>
+	<memory>
+	<fstream>
+	<ctime>
+	<string>
+	<vector>
+	<sstream>
+	<string>
+	<ostream>
+	<map>
+	<limits>
+	<algorithm>
+	<map>
+	<string>
+	<assert.h>
+	<vector>
+	<iterator>
+	<stdexcept>
+	<AfxWin.h>
+	<windows.h>
+	<signal.h>
+	<set>
+	<string>
+	<fstream>
+	<stdlib.h>
+	<limits>
+	<vector>
+	<set>
+	<sstream>
+	<algorithm>
+	<map>
+	<sstream>
+	<stdexcept>
+	<cstdio>
+	<iostream>
+	<unistd.h>
+	<vector>
+	<string>
+	<map>
+	<cctype>
+	<sys/time.h>
+	<cstring>
+	<cctype>
+	<assert.h>
+	<stdbool.h>
+	<sys/types.h>
+	<unistd.h>
+	<sys/sysctl.h>
+	<fstream>
+	<string>
+	<map>
+	<cstring>
+	<assert.h>
+	<sstream>
+	<string>
+	<vector>
+	<iomanip>
+	<assert.h>
+	<cfloat>
+	<cstdio>
+
+1543184727 c:\users\usuario\desktop\practica0302\parte01\convalidacion.h
+	"Actividad.h"
+	<string>
+
+1543183480 source:e:\programación orientada a objetos\practica0302\parte01\actividad.cpp
+	"Actividad.h"
+	"Tipo.h"
+	<iostream>
+	<string>
+
+1543183480 e:\programación orientada a objetos\practica0302\parte01\actividad.h
+	<iostream>
+	<string>
+
+1543182548 e:\programación orientada a objetos\practica0302\parte01\tipo.h
+
+1543183830 source:e:\programación orientada a objetos\practica0302\parte01\asignatura.cpp
+	"Asignatura.h"
+	"Tipo.h"
+	<string>
+
+1543183700 e:\programación orientada a objetos\practica0302\parte01\asignatura.h
+	<string>
+	"Actividad.h"
+	"Tipo.h"
+
+1543182472 source:e:\programación orientada a objetos\practica0302\parte01\estudiante.cpp
+	"Estudiante.h"
+	<string>
+
+1543182548 e:\programación orientada a objetos\practica0302\parte01\estudiante.h
+	<string>
+
+1543188808 source:e:\programación orientada a objetos\practica0302\parte01\matricula.cpp
+	"Matricula.h"
+	"Asignatura.h"
+	"Estudiante.h"
+	"Curso.h"
+	"OrdenMatricula.h"
+
+1543182548 e:\programación orientada a objetos\practica0302\parte01\matricula.h
+	"Actividad.h"
+	"Estudiante.h"
+	"Curso.h"
+	"OrdenMatricula.h"
+	"Tipo.h"
+
+1543182548 e:\programación orientada a objetos\practica0302\parte01\curso.h
+
+1543182548 e:\programación orientada a objetos\practica0302\parte01\ordenmatricula.h
+
+1543187660 source:e:\programación orientada a objetos\practica0302\parte01\reconocimiento.cpp
+	"Actividad.h"
+	"Tipo.h"
+	"Reconocimiento.h"
+	<string>
+
+1543187660 e:\programación orientada a objetos\practica0302\parte01\reconocimiento.h
+	"Actividad.h"
+	"Tipo.h"
+	<string>
+
+1543182668 source:e:\programación orientada a objetos\practica0302\parte01\tests.cpp
+	<iostream>
+	"catch.hpp"
+	"Matricula.h"
+	"Asignatura.h"
+	"Reconocimiento.h"
+	"Convalidacion.h"
+
+1543182668 e:\programación orientada a objetos\practica0302\parte01\catch.hpp
+	<sstream>
+	<algorithm>
+	<string>
+	<vector>
+	<string>
+	<cstddef>
+	<sstream>
+	<iomanip>
+	<limits>
+	<vector>
+	<cstddef>
+	<tuple>
+	<type_traits>
+	<string>
+	<string>
+	<string>
+	<signal.h>
+	<type_traits>
+	<cstddef>
+	<string>
+	<stdint.h>
+	<string>
+	<iterator>
+	<vector>
+	<string>
+	<stdlib.h>
+	<string>
+	<vector>
+	<string>
+	<cmath>
+	<limits>
+	<type_traits>
+	<string>
+	<string>
+	<set>
+	<string>
+	<crtdbg.h>
+	<stdexcept>
+	<string>
+	<vector>
+	<iosfwd>
+	<string>
+	<vector>
+	<streambuf>
+	<streambuf>
+	<ostream>
+	<fstream>
+	<memory>
+	<memory>
+	<vector>
+	<string>
+	<stdexcept>
+	<string>
+	<vector>
+	<sstream>
+	<algorithm>
+	<map>
+	<stdexcept>
+	<memory>
+	<fstream>
+	<ctime>
+	<string>
+	<vector>
+	<sstream>
+	<string>
+	<ostream>
+	<map>
+	<limits>
+	<algorithm>
+	<map>
+	<string>
+	<assert.h>
+	<vector>
+	<iterator>
+	<stdexcept>
+	<AfxWin.h>
+	<windows.h>
+	<signal.h>
+	<set>
+	<string>
+	<fstream>
+	<stdlib.h>
+	<limits>
+	<vector>
+	<set>
+	<sstream>
+	<algorithm>
+	<map>
+	<sstream>
+	<stdexcept>
+	<cstdio>
+	<iostream>
+	<unistd.h>
+	<vector>
+	<string>
+	<map>
+	<cctype>
+	<sys/time.h>
+	<cstring>
+	<cctype>
+	<assert.h>
+	<stdbool.h>
+	<sys/types.h>
+	<unistd.h>
+	<sys/sysctl.h>
+	<fstream>
+	<string>
+	<map>
+	<cstring>
+	<assert.h>
+	<sstream>
+	<string>
+	<vector>
+	<iomanip>
+	<assert.h>
+	<cfloat>
+	<cstdio>
+
+1543246790 e:\programación orientada a objetos\practica0302\parte01\convalidacion.h
+	"Actividad.h"
+	<string>
+

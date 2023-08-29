@@ -1,0 +1,215 @@
+# depslib dependency file v1.0
+1542669716 source:f:\programación orientada a objetos\practica0301\parte01\directory.cpp
+	"Directory.h"
+	"FSObject.h"
+	"TextFile.h"
+	<iostream>
+	<string>
+
+1543233176 source:f:\programación orientada a objetos\practica0301\parte01\filemanager.cpp
+	"FileManager.h"
+	"Directory.h"
+	"TextFile.h"
+	<iostream>
+	<string>
+
+1542667294 source:f:\programación orientada a objetos\practica0301\parte01\textfile.cpp
+	"TextFile.h"
+	"FSObject.h"
+	<iostream>
+	<string>
+
+1542671140 source:f:\programación orientada a objetos\practica0301\parte01\fsobject.cpp
+	"FSObject.h"
+	"FileManager.h"
+	<string>
+
+1542664182 f:\programación orientada a objetos\practica0301\parte01\fsobject.h
+	<string>
+
+1542666652 f:\programación orientada a objetos\practica0301\parte01\filemanager.h
+	"Directory.h"
+	"TextFile.h"
+	<string>
+
+1542668810 f:\programación orientada a objetos\practica0301\parte01\directory.h
+	<string>
+	"FSObject.h"
+	"TextFile.h"
+
+1542666490 f:\programación orientada a objetos\practica0301\parte01\textfile.h
+	<string>
+	"FSObject.h"
+
+1509535716 source:f:\programación orientada a objetos\practica0301\parte01\tests.cpp
+	<iostream>
+	"catch.hpp"
+	"FSObject.h"
+	"Directory.h"
+	"TextFile.h"
+	"FileManager.h"
+
+1488565300 f:\programación orientada a objetos\practica0301\parte01\catch.hpp
+	<sstream>
+	<algorithm>
+	<string>
+	<vector>
+	<string>
+	<cstddef>
+	<sstream>
+	<iomanip>
+	<limits>
+	<vector>
+	<cstddef>
+	<tuple>
+	<type_traits>
+	<string>
+	<string>
+	<string>
+	<signal.h>
+	<type_traits>
+	<cstddef>
+	<string>
+	<stdint.h>
+	<string>
+	<iterator>
+	<vector>
+	<string>
+	<stdlib.h>
+	<string>
+	<vector>
+	<string>
+	<cmath>
+	<limits>
+	<type_traits>
+	<string>
+	<string>
+	<set>
+	<string>
+	<crtdbg.h>
+	<stdexcept>
+	<string>
+	<vector>
+	<iosfwd>
+	<string>
+	<vector>
+	<streambuf>
+	<streambuf>
+	<ostream>
+	<fstream>
+	<memory>
+	<memory>
+	<vector>
+	<string>
+	<stdexcept>
+	<string>
+	<vector>
+	<sstream>
+	<algorithm>
+	<map>
+	<stdexcept>
+	<memory>
+	<fstream>
+	<ctime>
+	<string>
+	<vector>
+	<sstream>
+	<string>
+	<ostream>
+	<map>
+	<limits>
+	<algorithm>
+	<map>
+	<string>
+	<assert.h>
+	<vector>
+	<iterator>
+	<stdexcept>
+	<AfxWin.h>
+	<windows.h>
+	<signal.h>
+	<set>
+	<string>
+	<fstream>
+	<stdlib.h>
+	<limits>
+	<vector>
+	<set>
+	<sstream>
+	<algorithm>
+	<map>
+	<sstream>
+	<stdexcept>
+	<cstdio>
+	<iostream>
+	<unistd.h>
+	<vector>
+	<string>
+	<map>
+	<cctype>
+	<sys/time.h>
+	<cstring>
+	<cctype>
+	<assert.h>
+	<stdbool.h>
+	<sys/types.h>
+	<unistd.h>
+	<sys/sysctl.h>
+	<fstream>
+	<string>
+	<map>
+	<cstring>
+	<assert.h>
+	<sstream>
+	<string>
+	<vector>
+	<iomanip>
+	<assert.h>
+	<cfloat>
+	<cstdio>
+
+1543234570 source:e:\programación orientada a objetos\practica0301\parte01\directory.cpp
+	"Directory.h"
+	"FSObject.h"
+	"TextFile.h"
+	<iostream>
+	<string>
+
+1543234570 e:\programación orientada a objetos\practica0301\parte01\directory.h
+	<string>
+	"FSObject.h"
+	"TextFile.h"
+
+1543246356 e:\programación orientada a objetos\practica0301\parte01\fsobject.h
+	<string>
+
+1543234434 e:\programación orientada a objetos\practica0301\parte01\textfile.h
+	<string>
+	"FSObject.h"
+
+1543234570 source:e:\programación orientada a objetos\practica0301\parte01\filemanager.cpp
+	"FileManager.h"
+	"Directory.h"
+	"TextFile.h"
+	<iostream>
+	<string>
+
+1543234570 e:\programación orientada a objetos\practica0301\parte01\filemanager.h
+	"Directory.h"
+	"TextFile.h"
+	<string>
+
+1543234818 source:e:\programación orientada a objetos\practica0301\parte01\principal.cpp
+	"Directory.h"
+	"FileManager.h"
+	"FSObject.h"
+	"TextFile.h"
+	<string>
+	<iostream>
+
+1543234570 source:e:\programación orientada a objetos\practica0301\parte01\textfile.cpp
+	"TextFile.h"
+	"FSObject.h"
+	<iostream>
+	<string>
+
