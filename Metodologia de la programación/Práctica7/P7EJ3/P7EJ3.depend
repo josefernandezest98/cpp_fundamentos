@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1480513621 source:c:\users\jomaf\desktop\p7ej3\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+
+1480513621 source:c:\users\jomaf\desktop\universidad\programación\práctica7\p7ej3\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+
