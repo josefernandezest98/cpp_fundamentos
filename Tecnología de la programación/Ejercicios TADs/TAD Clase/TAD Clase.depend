@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1526764918 source:f:\segundo matemáticas\2º cuatrimestre\tecnología de la programación\prácticas\ejercicios tads\tad clase\calificación.cpp
+	"Calificación.h"
+	"iostream"
+	"cstring"
+
+1526764900 f:\segundo matemáticas\2º cuatrimestre\tecnología de la programación\prácticas\ejercicios tads\tad clase\calificación.h
+
+1446671344 source:f:\segundo matemáticas\2º cuatrimestre\tecnología de la programación\prácticas\ejercicios tads\tad clase\main.cpp
+	<iostream>
+
+1526768518 source:e:\segundo matemáticas\2º cuatrimestre\tecnología de la programación\prácticas\ejercicios tads\tad clase\calificación.cpp
+	"Calificación.h"
+	"iostream"
+	"cstring"
+
+1526768500 e:\segundo matemáticas\2º cuatrimestre\tecnología de la programación\prácticas\ejercicios tads\tad clase\calificación.h
+
+1526835404 source:e:\segundo matemáticas\2º cuatrimestre\tecnología de la programación\prácticas\ejercicios tads\tad clase\calse.cpp
+	"Calificación.h"
+	"Clase.h"
+	"iostream"
+	"cstring"
+
+1526769714 e:\segundo matemáticas\2º cuatrimestre\tecnología de la programación\prácticas\ejercicios tads\tad clase\clase.h
+
+1446671344 source:e:\segundo matemáticas\2º cuatrimestre\tecnología de la programación\prácticas\ejercicios tads\tad clase\main.cpp
+	<iostream>
+

@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1446671344 source:f:\segundo matemáticas\2º cuatrimestre\tecnología de la programación\prácticas\ejercicios tads\tad catálogo tfgs\main.cpp
+	<iostream>
+
+1526720238 source:f:\segundo matemáticas\2º cuatrimestre\tecnología de la programación\prácticas\ejercicios tads\tad catálogo tfgs\tfg.cpp
+	"TFG.h"
+	"iostream"
+	"cstring"
+
+1526719532 f:\segundo matemáticas\2º cuatrimestre\tecnología de la programación\prácticas\ejercicios tads\tad catálogo tfgs\tfg.h
+
+1526720322 source:f:\segundo matemáticas\2º cuatrimestre\tecnología de la programación\prácticas\ejercicios tads\tad catálogo tfgs\catálogo.cpp
+

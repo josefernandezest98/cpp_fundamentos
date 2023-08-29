@@ -1,0 +1,34 @@
+# depslib dependency file v1.0
+1526835324 source:f:\segundo matemáticas\2º cuatrimestre\tecnología de la programación\prácticas\ejercicios tads\tad bibliografia\libro.cpp
+	"Libro.h"
+	"iostream"
+	"cstring"
+
+1526835322 f:\segundo matemáticas\2º cuatrimestre\tecnología de la programación\prácticas\ejercicios tads\tad bibliografia\libro.h
+
+1446671344 source:f:\segundo matemáticas\2º cuatrimestre\tecnología de la programación\prácticas\ejercicios tads\tad bibliografia\main.cpp
+	<iostream>
+
+1526843018 source:f:\segundo matemáticas\2º cuatrimestre\tecnología de la programación\prácticas\ejercicios tads\tad bibliografia\bibliografia.cpp
+	"Libro.h"
+	"Bibliografia.h"
+	"iostream"
+	"cstring"
+
+1526836624 f:\segundo matemáticas\2º cuatrimestre\tecnología de la programación\prácticas\ejercicios tads\tad bibliografia\bibliografia.h
+
+1526846914 source:e:\segundo matemáticas\2º cuatrimestre\tecnología de la programación\prácticas\ejercicios tads\tad bibliografia\bibliografia.cpp
+	"Libro.h"
+	"Bibliografia.h"
+	"iostream"
+	"cstring"
+
+1526838922 e:\segundo matemáticas\2º cuatrimestre\tecnología de la programación\prácticas\ejercicios tads\tad bibliografia\libro.h
+
+1526840224 e:\segundo matemáticas\2º cuatrimestre\tecnología de la programación\prácticas\ejercicios tads\tad bibliografia\bibliografia.h
+
+1526838924 source:e:\segundo matemáticas\2º cuatrimestre\tecnología de la programación\prácticas\ejercicios tads\tad bibliografia\libro.cpp
+	"Libro.h"
+	"iostream"
+	"cstring"
+
