@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1385320478 source:e:\tecnología de la programación\p9\p9ej2\main.cpp
+	<iostream>
+
+1460978464 source:e:\tecnología de la programación\p9\p9ej2\tadcoordenadas.cpp
+	"TADCoordenadas.h"
+
+1460978462 e:\tecnología de la programación\p9\p9ej2\tadcoordenadas.h
+	<cstdlib>
+	<iostream>
+	<cmath>
+
+1460978998 source:e:\tecnología de la programación\p9\p9ej2\tadcircunferencia.cpp
+	"TADCircunferencia.h"
+
+1460978948 e:\tecnología de la programación\p9\p9ej2\tadcircunferencia.h
+	"TADCoordenadas.h"
+

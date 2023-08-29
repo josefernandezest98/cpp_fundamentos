@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1525110650 source:e:\segundo matemáticas\2º cuatrimestre\tecnología de la programación\prácticas\práctica 10\paciente.cpp
+	"Paciente.h"
+	<iostream>
+
+1525112780 e:\segundo matemáticas\2º cuatrimestre\tecnología de la programación\prácticas\práctica 10\paciente.h
+
+1525111902 source:e:\segundo matemáticas\2º cuatrimestre\tecnología de la programación\prácticas\práctica 10\cola.cpp
+	"Cola.h"
+	<iostream>
+
+1525112260 e:\segundo matemáticas\2º cuatrimestre\tecnología de la programación\prácticas\práctica 10\cola.h
+	"paciente.h"
+
+1525111824 source:e:\segundo matemáticas\2º cuatrimestre\tecnología de la programación\prácticas\práctica 10\main.cpp
+	<iostream>
+	"Cola.h"
+	"Paciente.h"
+
