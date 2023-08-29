@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1518528262 source:e:\programación orientada a objetos\practica0103\parte 01\main.cpp
+	<iostream>
+
+1538132000 source:e:\programación orientada a objetos\practica0103\parte 01\punto.cpp
+	"Punto.h"
+	<cmath>
+
+1538131970 e:\programación orientada a objetos\practica0103\parte 01\punto.h
+
+1539702612 source:e:\programación orientada a objetos\practica0103\parte 01\principal.cpp
+	"Punto.h"
+	<iostream>
+	<cstring>
+

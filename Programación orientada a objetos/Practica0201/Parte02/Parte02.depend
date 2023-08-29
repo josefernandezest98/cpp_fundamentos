@@ -1,0 +1,298 @@
+# depslib dependency file v1.0
+1518528262 source:f:\programación orientada a objetos\practica0201\parte02\main.cpp
+	<iostream>
+
+1541162690 source:f:\programación orientada a objetos\practica0201\parte02\punto.cpp
+	"Punto.h"
+	<cmath>
+
+1541162320 f:\programación orientada a objetos\practica0201\parte02\punto.h
+
+1541188312 source:f:\programación orientada a objetos\practica0201\parte02\polilinea.cpp
+	"Punto.H"
+	"Polilinea.h"
+	<iostream>
+	<string>
+
+1541185854 f:\programación orientada a objetos\practica0201\parte02\polilinea.h
+	"Punto.H"
+	<string>
+
+1540189292 source:f:\programación orientada a objetos\practica0201\parte02\tests.cpp
+	<iostream>
+	"catch.hpp"
+	<iomanip>
+	<sstream>
+	<string>
+	"Punto.h"
+	"Polilinea.h"
+
+1488568900 f:\programación orientada a objetos\practica0201\parte02\catch.hpp
+	<sstream>
+	<algorithm>
+	<string>
+	<vector>
+	<string>
+	<cstddef>
+	<sstream>
+	<iomanip>
+	<limits>
+	<vector>
+	<cstddef>
+	<tuple>
+	<type_traits>
+	<string>
+	<string>
+	<string>
+	<signal.h>
+	<type_traits>
+	<cstddef>
+	<string>
+	<stdint.h>
+	<string>
+	<iterator>
+	<vector>
+	<string>
+	<stdlib.h>
+	<string>
+	<vector>
+	<string>
+	<cmath>
+	<limits>
+	<type_traits>
+	<string>
+	<string>
+	<set>
+	<string>
+	<crtdbg.h>
+	<stdexcept>
+	<string>
+	<vector>
+	<iosfwd>
+	<string>
+	<vector>
+	<streambuf>
+	<streambuf>
+	<ostream>
+	<fstream>
+	<memory>
+	<memory>
+	<vector>
+	<string>
+	<stdexcept>
+	<string>
+	<vector>
+	<sstream>
+	<algorithm>
+	<map>
+	<stdexcept>
+	<memory>
+	<fstream>
+	<ctime>
+	<string>
+	<vector>
+	<sstream>
+	<string>
+	<ostream>
+	<map>
+	<limits>
+	<algorithm>
+	<map>
+	<string>
+	<assert.h>
+	<vector>
+	<iterator>
+	<stdexcept>
+	<AfxWin.h>
+	<windows.h>
+	<signal.h>
+	<set>
+	<string>
+	<fstream>
+	<stdlib.h>
+	<limits>
+	<vector>
+	<set>
+	<sstream>
+	<algorithm>
+	<map>
+	<sstream>
+	<stdexcept>
+	<cstdio>
+	<iostream>
+	<unistd.h>
+	<vector>
+	<string>
+	<map>
+	<cctype>
+	<sys/time.h>
+	<cstring>
+	<cctype>
+	<assert.h>
+	<stdbool.h>
+	<sys/types.h>
+	<unistd.h>
+	<sys/sysctl.h>
+	<fstream>
+	<string>
+	<map>
+	<cstring>
+	<assert.h>
+	<sstream>
+	<string>
+	<vector>
+	<iomanip>
+	<assert.h>
+	<cfloat>
+	<cstdio>
+
+1541421080 source:e:\programación orientada a objetos\practica0201\parte02\polilinea.cpp
+	"Punto.H"
+	"Polilinea.h"
+	<iostream>
+	<string>
+
+1541162320 e:\programación orientada a objetos\practica0201\parte02\punto.h
+
+1541185854 e:\programación orientada a objetos\practica0201\parte02\polilinea.h
+	"Punto.H"
+	<string>
+
+1540192892 source:e:\programación orientada a objetos\practica0201\parte02\tests.cpp
+	<iostream>
+	"catch.hpp"
+	<iomanip>
+	<sstream>
+	<string>
+	"Punto.h"
+	"Polilinea.h"
+
+1488568900 e:\programación orientada a objetos\practica0201\parte02\catch.hpp
+	<sstream>
+	<algorithm>
+	<string>
+	<vector>
+	<string>
+	<cstddef>
+	<sstream>
+	<iomanip>
+	<limits>
+	<vector>
+	<cstddef>
+	<tuple>
+	<type_traits>
+	<string>
+	<string>
+	<string>
+	<signal.h>
+	<type_traits>
+	<cstddef>
+	<string>
+	<stdint.h>
+	<string>
+	<iterator>
+	<vector>
+	<string>
+	<stdlib.h>
+	<string>
+	<vector>
+	<string>
+	<cmath>
+	<limits>
+	<type_traits>
+	<string>
+	<string>
+	<set>
+	<string>
+	<crtdbg.h>
+	<stdexcept>
+	<string>
+	<vector>
+	<iosfwd>
+	<string>
+	<vector>
+	<streambuf>
+	<streambuf>
+	<ostream>
+	<fstream>
+	<memory>
+	<memory>
+	<vector>
+	<string>
+	<stdexcept>
+	<string>
+	<vector>
+	<sstream>
+	<algorithm>
+	<map>
+	<stdexcept>
+	<memory>
+	<fstream>
+	<ctime>
+	<string>
+	<vector>
+	<sstream>
+	<string>
+	<ostream>
+	<map>
+	<limits>
+	<algorithm>
+	<map>
+	<string>
+	<assert.h>
+	<vector>
+	<iterator>
+	<stdexcept>
+	<AfxWin.h>
+	<windows.h>
+	<signal.h>
+	<set>
+	<string>
+	<fstream>
+	<stdlib.h>
+	<limits>
+	<vector>
+	<set>
+	<sstream>
+	<algorithm>
+	<map>
+	<sstream>
+	<stdexcept>
+	<cstdio>
+	<iostream>
+	<unistd.h>
+	<vector>
+	<string>
+	<map>
+	<cctype>
+	<sys/time.h>
+	<cstring>
+	<cctype>
+	<assert.h>
+	<stdbool.h>
+	<sys/types.h>
+	<unistd.h>
+	<sys/sysctl.h>
+	<fstream>
+	<string>
+	<map>
+	<cstring>
+	<assert.h>
+	<sstream>
+	<string>
+	<vector>
+	<iomanip>
+	<assert.h>
+	<cfloat>
+	<cstdio>
+
+1541414440 source:e:\programación orientada a objetos\practica0201\parte02\punto.cpp
+	"Punto.h"
+	<cmath>
+	<cstdlib>
+
+1541421536 source:e:\programación orientada a objetos\practica0201\parte02\principal.cpp
+	"Punto.h"
+	"Polilinea.h"
+	<iostream>
+
